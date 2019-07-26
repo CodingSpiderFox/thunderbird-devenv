@@ -9,5 +9,9 @@ hg co THUNDERBIRD_60_VERBRANCH
 hg clone https://hg.mozilla.org/releases/comm-esr60/ comm
 
 python client.py checkout
+
+echo 'ac_add_options --enable-application=comm/mail' > mozconfig
+echo 'ac_add_options --enable-calendar' >> mozconfig
+
 ./mach build
 ./mach run
