@@ -1,7 +1,7 @@
 Helpful links at: https://groups.google.com/forum/#!topic/mozilla.dev.builds/ni7ih5pSyW0
 
 
-Original instructions page:
+Original instructions page (licensed under CC-BY-SA): https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build
 
 
 <p>This page covers the basic steps needed to build a bleeding-edge, development version of Thunderbird 60 or later. For Thunderbird up to 59, see the <a class="internal" href="Old_Thunderbird_build" rel="internal">old build documentation</a>. For additional, more detailed information, see the <a class="internal" href="../../../../Developer_Guide/Build_Instructions" rel="internal">build documentation</a>.</p>
