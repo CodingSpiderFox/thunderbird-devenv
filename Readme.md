@@ -1,4 +1,14 @@
-Helpful links at: https://groups.google.com/forum/#!topic/mozilla.dev.builds/ni7ih5pSyW0
+Helpful links at:
+
+
+https://groups.google.com/forum/#!topic/mozilla.dev.builds/ni7ih5pSyW0
+
+https://developer.mozilla.org/en-US/docs/Mozilla/Thunderbird/Thunderbird_extensions/Finding_the_code_for_a_feature
+https://developer.mozilla.org/en-US/docs/Mozilla/Thunderbird/Thunderbird_extensions
+https://developer.mozilla.org/en-US/docs/Mozilla/Thunderbird/Thunderbird_extensions/Useful_newsgroups_discussions
+https://developer.mozilla.org/en-US/docs/Mozilla/Thunderbird/Thunderbird_extensions/Building_a_Thunderbird_extension
+
+---------------------------------------------------------------------------------------------------------------------------------
 
 
 Original instructions page (licensed under CC-BY-SA): https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build
