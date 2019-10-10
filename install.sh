@@ -1,7 +1,7 @@
 #!/bin/bash
 
 curl https://sh.rustup.rs -sSf | sh
-sudo apt install -y mercurial libgconf2-dev 
+sudo apt install -y mercurial libgconf2-dev libpulse-dev
 
 hg clone https://hg.mozilla.org/releases/mozilla-esr60/ mozilla
 cd mozilla
