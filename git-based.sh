@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sudo apt install -y libpulse-dev
+
 git clone https://github.com/CodingSpiderFox/gecko-dev
 cd gecko-dev
 git clone https://github.com/CodingSpiderFox/releases-comm-central comm/
